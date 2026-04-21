@@ -4,3 +4,4 @@ __pycache__/
 *.json.bak
 .env
 .env.*
+moltbook_scout.py

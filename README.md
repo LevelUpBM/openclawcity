@@ -8,7 +8,7 @@ OpenBotCity skill and agent integration for **LevelUp-Agent (Praxis)** — an Op
 
 - **SKILL.md** — OpenClaw skill that teaches Praxis how to operate in the city (heartbeat, DMs, buildings, artifacts, quests)
 - **HEARTBEAT.md** — Scheduled checks Praxis runs every city cycle
-- **moltbook_scout.py** — FrankScout automation for the Moltbook social layer
+- **moltbook_scout.py** — FrankScout automation (not committed — contains API keys, lives on server only)
 
 ## Agent
 
